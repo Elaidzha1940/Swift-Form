@@ -9,6 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     
+    //19.09 00:44
+    
     @State private var firstName = ""
     @State private var lastName = ""
     @State private var bitrhdate = Date()
